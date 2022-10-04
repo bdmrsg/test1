@@ -7,3 +7,4 @@ Add Line
 3 lesson commit changes
 stash line
 new brench line
+conflict with hub repo
