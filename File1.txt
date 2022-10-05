@@ -8,3 +8,4 @@ Add Line
 stash line
 new brench line
 conflict with hub repo
+git gui
